@@ -8,7 +8,7 @@ namespace Uppgifter_20210902
         {
             Console.WriteLine("Mina uppgifter:");
 
-            //Uppgift A - HAPPY PATH
+            //Uppgift A - HAPPY PATH!!
             //Lagar data, deklarera variabler
             int amount_of_questions = 5;
             string[] food = new string[amount_of_questions];
