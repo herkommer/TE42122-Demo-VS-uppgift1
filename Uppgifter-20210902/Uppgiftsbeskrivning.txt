@@ -1,0 +1,19 @@
+﻿Uppgift A:
+
+fråga tre gånger om en favoritmaträtt
+spara varje svar/maträtt
+skriv ut alla maträtterna på samma rad
+skriv ut alla maträtterna en i taget per rad med antal tecken inom ()
+skriv ut "den längsta maträtten är: maträtt"
+
+pseudokod - dvs skriv i vanlig ord vad programmet ska göra
+
+3 ggr = loop med bestämt antal, FOR-LOOP
+Fråga? ok, vi kan skriva ut och sedan invänta ett svar
+writline, readline
+vad gör vi med svaret?
+jo, det vill vi "spara"/komma-ihåg under programkörningen
+hur sparar vi data?
+jo, med en variabel som kan ta emot data (datatyp)
+datatyp måste kunna ta emot text, dvs sträng
+3 ggr = 3 variabler
